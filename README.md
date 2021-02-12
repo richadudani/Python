@@ -1,12 +1,12 @@
-# Unit 2 | Homework Assignment: Automate Your Day Job with Python
+# Automation of Day Job with Python
 
 ## Background
 
-You've made it! It's time to put away the Excel sheet and join the big leagues. Welcome to the world of programming with Python. In this homework assignment, you'll be using the concepts you've learned to complete **two** Python activities, PyBank and PyRamen. Both activities present a real-world situation in which your newfound Python skills will come in handy. These activities are far from easy, though, so expect some hard work ahead!
+In this assignment, I will be using the Python concepts to complete real-world situation activities, PyBank and PyRamen. 
 
 ## Before You Begin
 
-1. Create a new GitHub repo called `python-homework`. Then, clone it to your computer.
+1. Create a new GitHub repo called `Python`. 
 
 2. In your local git repository, create a directory for both of the Python activities. Use folder names that correspond to the activities: **PyBank** and **PyRamen**.
 
