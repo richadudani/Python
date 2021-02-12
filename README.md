@@ -16,7 +16,7 @@ In this assignment, I will be using the Python concepts to complete real-world s
 
 ## PyBank
 
-![Revenue](Images/revenue-per-lead.jpg)
+![Revenue](Images/revenue-per-lead.JPG)
 
 In this activity, you are tasked with creating a Python script for analyzing the financial records of your company. You will be provided with a financial dataset in this file: [budget_data.csv](PyBank/Resources/budget_data.csv). This dataset is composed of two columns: Date and Profit/Losses. (Thankfully, your company has rather lax standards for accounting, so the records are simple.)
 
@@ -170,29 +170,3 @@ Complete the following:
 * [Python Documentation](https://docs.python.org/3/): Official Python documentation
 
 ---
-
-## Hints and Considerations
-
-* Consider what we've learned so far. To date, we've learned how to import modules like `csv`; to read and write files in various formats; to store contents in variables, lists, and dictionaries; to iterate through basic data structures; and to debug along the way. Using what we've learned, try to break down your tasks into discrete mini-objectives. This will be a *much* better course of action than attempting to Google search for a miracle.
-
-* As you will discover, for some of these activities, the datasets are quite large. This was done purposefully, as it showcases one of the limits of Excel-based analysis. While our first instinct as data analysts is often to head straight to Excel, creating scripts in Python can provide us with more robust options for handling "big data."
-
-* Your scripts should work for each dataset provided. Run your script for each dataset separately to make sure that the code works for different data.
-
-* Feel encouraged to work in groups, but don't shortchange yourself by copying someone else's work. Dig your heels in, and learn this while you can! These are skills that will pay dividends in your future career.
-
-* **Start early**, and reach out for help often! Challenge yourself to identify _specific_ questions for your instructors and TAs. Don't resign yourself to simply saying, "I'm totally lost." Be prepared to show your effort and thought patterns; we'll be happy to help along the way.
-
-* Always commit your work (and do it often!) and back it up with GitHub pushes. You don't want to lose hours of your work because you didn't push it to GitHub every half hour or so.
-
----
-
-## Submission
-
-* Upload homework files to your GitHub repo.
-
-* Submit the link to your GitHub repo on Bootcamp Spot.
-
----
-
-© 2020 Trilogy Education Services, a 2U Inc. brand. All Rights Reserved.
